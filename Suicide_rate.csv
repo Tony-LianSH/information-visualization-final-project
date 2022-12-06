@@ -1,0 +1,1076 @@
+﻿measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.021694698,0.022367305,0.020958205
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.014718304,0.015311444,0.014177051
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.015225123,0.015848623,0.014677921
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.028374611,0.029511178,0.027217449
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.012809564,0.013246403,0.012387347
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.045038789,0.047506987,0.042693778
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.010415467,0.010800726,0.010057725
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.013753792,0.014367247,0.013173273
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.01564624,0.016257305,0.015053869
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.017988297,0.018866357,0.017214355
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.012981904,0.013459203,0.012471737
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.015862896,0.016451433,0.015291709
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.015908914,0.016468482,0.015332441
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.027761048,0.028882545,0.026688334
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.015266589,0.015855239,0.014691411
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.02399414,0.024788291,0.023124246
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.025980749,0.02732514,0.024796947
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.015719217,0.016391902,0.015082312
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.015695299,0.016223572,0.015137593
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.014906653,0.015488897,0.014349892
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.045132574,0.047511734,0.042937024
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.018665041,0.019239153,0.018059029
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.01472095,0.015512419,0.014045451
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.023596937,0.024408276,0.022747661
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.013910623,0.014330638,0.013507125
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.010341386,0.010732298,0.009970035
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.016054282,0.016769267,0.015372912
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.014265641,0.014847186,0.013730705
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.014362896,0.014918837,0.013839548
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.019207919,0.019926549,0.018487446
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.015357667,0.015908858,0.014811822
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.015313363,0.015934038,0.014744314
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.028254133,0.029436289,0.027242951
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.01549795,0.016012445,0.014995149
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.015704248,0.016305725,0.015162596
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.014680701,0.015461418,0.013954616
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.020042438,0.020788157,0.019342978
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.015179907,0.01601298,0.014404383
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.018330447,0.01886615,0.017735468
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.015610494,0.016208577,0.015030725
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.01313546,0.01369374,0.012623318
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.014481125,0.015063795,0.013925325
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.013377962,0.01381997,0.012983701
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.012699785,0.013248053,0.012170298
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.015314602,0.015834703,0.014812613
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.028760921,0.029740924,0.027766311
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.013965572,0.014623486,0.013332996
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.019170523,0.019925279,0.018461122
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.014998976,0.015544937,0.014489041
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.010120712,0.010776119,0.009486185
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.01566519,0.016338867,0.015083161
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.01601707,0.016578294,0.015451993
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.014945388,0.015700634,0.014175876
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.013859086,0.014311763,0.01343593
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.013530125,0.014200296,0.012917098
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.0180084,0.018666083,0.017401755
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.019824426,0.020595309,0.019089246
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.015630778,0.01621878,0.015131971
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.016016317,0.016597862,0.015475323
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.015731062,0.016460271,0.015026466
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.022202246,0.023242301,0.021171463
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.01431269,0.014925409,0.013681303
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.014288725,0.014853174,0.01375156
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.016108527,0.016594431,0.015576656
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.035267628,0.036549,0.033952421
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.019051736,0.019638131,0.018426929
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.023367602,0.024493255,0.022334936
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.013029876,0.013573708,0.012526143
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.017783526,0.018405331,0.017179219
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.032075413,0.033272669,0.030906581
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.009647748,0.01032144,0.009050363
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.013358947,0.013781062,0.012950051
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.021791344,0.022908713,0.020834292
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.015137794,0.015688518,0.014615429
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.015569677,0.01610739,0.01503366
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.018356722,0.018948303,0.017790807
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.015592819,0.016087244,0.015079375
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.00948247,0.009864856,0.009110296
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.015756931,0.016517918,0.015046619
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.019580328,0.020522967,0.018701497
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.019536251,0.020511592,0.018618717
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.014052233,0.014648818,0.013430704
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.014069937,0.014665773,0.013509808
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.023294673,0.024270818,0.022254999
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.013535547,0.013980909,0.013114898
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.013015467,0.013438036,0.01257933
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.013116809,0.01363617,0.012611115
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.014609209,0.015164715,0.014124118
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.023929607,0.025015501,0.022877974
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.009474787,0.009862804,0.00910378
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.033984282,0.035266849,0.032779743
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.015991536,0.016539529,0.015461986
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.034450145,0.035690433,0.033199265
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.032714587,0.033958953,0.031479432
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,1990,0.018627614,0.019419563,0.017812824
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.017709711,0.018607735,0.016855717
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.034491817,0.035697838,0.033305742
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.027212022,0.028419589,0.026142103
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.010129059,0.010492348,0.009747568
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.009393895,0.009786786,0.009030353
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.013361405,0.013790853,0.01293722
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.022724918,0.023787833,0.021717245
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.023746889,0.024808284,0.022701035
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.01507799,0.015587402,0.01456585
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.026564494,0.027604577,0.025517495
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.013296197,0.013896347,0.012736566
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.018081819,0.018657948,0.017531596
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015154749,0.015702467,0.01462913
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.014277055,0.015047451,0.013583942
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.021087049,0.02179025,0.020386512
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.016075891,0.016866933,0.015359386
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.014047996,0.014734881,0.013327088
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.017699025,0.018545881,0.016904367
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.014239438,0.01482985,0.013627116
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.026126162,0.027406654,0.024980537
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.016031347,0.016594898,0.015480811
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.015399953,0.015911034,0.014885725
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.033870579,0.035250153,0.032720421
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.020101309,0.02082234,0.019401305
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.021030978,0.021740834,0.020350085
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015992618,0.016633441,0.015433836
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.015629058,0.016225401,0.015048766
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.0157928,0.016395338,0.015183172
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.01547844,0.016059884,0.014933501
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.019730787,0.020491319,0.018997142
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.009909014,0.01026349,0.009545781
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.026662379,0.027904836,0.025577217
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.009505079,0.009894949,0.00913131
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.019475223,0.020423889,0.018527484
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.016197905,0.016841728,0.015644486
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.018827066,0.01970291,0.017865198
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.014497723,0.015052976,0.013931409
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.013063939,0.013514892,0.012650944
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.018337888,0.018903974,0.017788759
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.014159603,0.014850309,0.013480496
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.014833825,0.015382435,0.014255377
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.013688834,0.014357742,0.012992022
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015589173,0.016364324,0.01487248
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.014964724,0.015461784,0.014480855
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.014070157,0.014646403,0.013531333
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.01589614,0.016526216,0.015268719
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.012797623,0.013321351,0.012266135
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.015080597,0.015673457,0.014506662
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.046241733,0.048594959,0.043975835
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.017487751,0.018059466,0.016906339
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.013233463,0.013619919,0.012838478
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.017994058,0.018543194,0.0174413
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.015342937,0.015858343,0.014825366
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015530645,0.016078184,0.014984792
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.018852798,0.019435401,0.018271325
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.013054918,0.013591736,0.012566341
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.017320505,0.017867937,0.016773084
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.032789382,0.034051524,0.031556921
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.015138003,0.015644762,0.014629935
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,1991,0.014266626,0.014862313,0.013671303
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.008511068,0.009144089,0.007934502
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.014930529,0.015469026,0.014401093
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.013004595,0.013528933,0.012458687
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.023438646,0.024233939,0.022549824
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.015352876,0.015940485,0.014793107
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.015061263,0.015558236,0.01453722
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.023440188,0.024475663,0.022497216
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.014955769,0.015537441,0.014390755
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.0159001,0.01652643,0.015332054
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.020577677,0.021326395,0.019860444
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.0129799,0.013409142,0.012568745
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014396343,0.014889187,0.013940595
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.015461432,0.016015993,0.014923719
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.012998178,0.013716603,0.012335315
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.017402183,0.017946723,0.016884547
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.015288879,0.015818755,0.014791772
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.01631314,0.017113748,0.015553681
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.014913346,0.015470953,0.01436467
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.012382131,0.012756548,0.011967667
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014654748,0.01521942,0.014142556
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.035476817,0.036763181,0.034288262
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.012599974,0.013070898,0.012177405
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.021762316,0.022774504,0.020757105
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.015781599,0.016387213,0.015217175
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.021230775,0.021952595,0.02055696
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014525156,0.015068046,0.013997128
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.013049995,0.01363136,0.012497435
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.012881151,0.013301135,0.012478781
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014790749,0.015271728,0.014291539
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.016985584,0.017559049,0.016427632
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.017190091,0.017692613,0.016692875
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.015515846,0.016040776,0.01499774
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.025907608,0.02711886,0.024707125
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.012830331,0.013587108,0.012163941
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.016782245,0.017363798,0.01625846
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.01514765,0.01568067,0.014642327
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.01402063,0.01477858,0.013311917
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014889382,0.015445609,0.014317953
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.017716698,0.018569431,0.016852301
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.013718251,0.014289126,0.013171704
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.015289864,0.015873333,0.014760224
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.017707673,0.018543829,0.016809398
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.014846186,0.015366309,0.014345047
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.013948531,0.014609493,0.013406184
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.020730204,0.021458413,0.019988297
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014815336,0.015395282,0.014265382
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.016833098,0.017590249,0.016040783
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.035404733,0.036730563,0.034197436
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.011680567,0.012179215,0.011196415
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.012787204,0.013277963,0.012299235
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.013884248,0.014574471,0.013215702
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.045582508,0.047857521,0.043401727
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014655072,0.015139725,0.014151075
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014442882,0.014943676,0.013972817
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.021204973,0.021902646,0.020514587
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.017168847,0.017706513,0.016643584
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.00955899,0.009916677,0.00922024
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.025007665,0.025953666,0.02404664
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.015182448,0.015974858,0.014440014
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.023507859,0.024334053,0.022779044
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.023390933,0.024220956,0.022621273
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.012422318,0.012803364,0.011989128
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.009403876,0.009752249,0.009045887
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.012954351,0.013388936,0.012549801
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014511497,0.015014538,0.014050386
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.021053652,0.021795953,0.020361298
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014102624,0.014796625,0.013390448
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014815192,0.015431866,0.014190715
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.014273007,0.014791803,0.013799802
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.013203367,0.01385163,0.012614651
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.01225419,0.012637673,0.011852764
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.020296783,0.021034375,0.019597233
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.012397773,0.012826939,0.011976007
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.014918612,0.015444244,0.014350091
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.016605566,0.017205898,0.016028751
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.024270554,0.025233602,0.02332578
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.009540866,0.009865053,0.009219706
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.015325633,0.015839861,0.014837966
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.014275909,0.014710382,0.013781352
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014879265,0.015422371,0.014371385
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.023057215,0.024133563,0.022047394
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.015915596,0.016526819,0.015356048
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.009196842,0.009657402,0.00881715
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.011448091,0.011837374,0.011062021
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.011031804,0.011473898,0.010564639
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.01698892,0.017765079,0.016246192
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.046322398,0.048690629,0.044064371
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.022750504,0.023787019,0.02177816
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.021697859,0.022712348,0.020723833
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.016861477,0.017695193,0.016080418
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.014046916,0.014808043,0.01338986
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.017345273,0.018170987,0.016479779
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.03580971,0.037150862,0.034601446
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.015251631,0.015804523,0.014741683
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.014125733,0.014653012,0.013608997
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.020472683,0.021189484,0.019763346
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.016364918,0.016841077,0.015876879
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.023804883,0.02463735,0.022986098
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014845781,0.015440567,0.014324584
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.012586266,0.013002414,0.012176898
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.044699931,0.046966895,0.042656676
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014419458,0.014946265,0.01389753
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.016878993,0.017721335,0.016131294
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.016802697,0.01729398,0.016300198
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.036211399,0.037532767,0.034986648
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.016241834,0.016738947,0.015782749
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.014868843,0.015447774,0.014277081
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.015702707,0.016295393,0.015144282
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.016613232,0.017156407,0.016085237
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.010881203,0.011339798,0.010416561
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.01285397,0.013488443,0.012211466
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.013912877,0.01434414,0.013430655
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.01529685,0.015796389,0.014824218
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.02060832,0.021546617,0.019682901
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.015238902,0.015767161,0.014733894
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.022510928,0.023226674,0.021758878
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.021630796,0.022476606,0.020802345
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.027618659,0.028549185,0.026709626
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.008686937,0.009255521,0.008145424
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.007735321,0.008250991,0.007252373
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.012607816,0.013109065,0.012120749
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.013890574,0.014433812,0.013357028
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.022248241,0.023228582,0.021331973
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014170362,0.014829421,0.013497604
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014400577,0.014925979,0.013887582
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.009197392,0.009563653,0.008831097
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.018350092,0.019217923,0.017502811
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.015752102,0.016225792,0.015263026
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.019282056,0.019912743,0.018648197
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.012174834,0.012652064,0.01172359
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.01575817,0.016263339,0.015232812
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.029853667,0.030894522,0.028772495
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014901897,0.015467901,0.014371638
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014517965,0.015062216,0.014017902
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.021147946,0.022055696,0.020299684
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.022218222,0.023172039,0.021270761
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.016137126,0.016987397,0.015388565
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.015340863,0.015849628,0.014826153
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.03311845,0.034417626,0.031917944
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.016354784,0.017125224,0.01559881
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.015955922,0.016705082,0.015238517
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.016174224,0.016878427,0.015416975
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014084045,0.014526676,0.013598891
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.015504861,0.016019646,0.014954218
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.021230383,0.021918276,0.020513008
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014080182,0.014596119,0.013631193
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.013854141,0.014390992,0.013337558
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.023913935,0.025068873,0.022752611
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.017463385,0.018370666,0.016606406
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.023716897,0.024663922,0.022709875
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014516179,0.015036443,0.014015898
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.015163894,0.015759902,0.014570148
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.014413884,0.01490631,0.013924495
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.015654582,0.016508554,0.014824697
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.0266045,0.027565038,0.025643416
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.012575903,0.013035635,0.012107441
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.015614655,0.016223388,0.015031818
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.013861712,0.014440783,0.013284704
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.009288495,0.009626507,0.00887251
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.01351074,0.014295229,0.012826381
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014535714,0.015214538,0.013995713
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.011078939,0.011546239,0.010581117
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.01554753,0.016131697,0.014988612
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.012462323,0.013057907,0.011877399
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.012252929,0.012670183,0.01182947
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.020112181,0.020925634,0.01940878
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.01900947,0.019685268,0.018296009
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014022745,0.014634544,0.013398573
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.012532439,0.01310229,0.011976679
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015646337,0.016253615,0.015085039
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.012001549,0.012441032,0.011585598
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.041961184,0.044030428,0.040060221
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.014835934,0.015396577,0.014307621
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.013938321,0.014416259,0.013488533
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015863545,0.016448281,0.01532072
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.01508836,0.015533606,0.014666572
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.023899772,0.024961062,0.022858958
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014868007,0.015443344,0.014303991
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.029157671,0.030162608,0.028158644
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.01788799,0.01877422,0.017029837
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.012624049,0.013200358,0.012014483
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.008262231,0.008881836,0.007672404
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.014295237,0.014915003,0.013677239
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.012857932,0.013373046,0.012372656
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.016085121,0.016896269,0.015347832
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.014545299,0.015363577,0.013794159
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.028542508,0.029599979,0.027553471
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.013803964,0.014429859,0.013231895
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.015472536,0.01600981,0.014961511
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.00825462,0.008861224,0.007691073
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.014486504,0.015073036,0.013918612
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.028936622,0.029989323,0.027898415
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.021395812,0.022075584,0.02069857
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.015841781,0.016448835,0.01529848
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.033323671,0.034517288,0.032081068
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.01402159,0.014584869,0.01352377
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.024030041,0.025023254,0.023045941
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.018973392,0.019585295,0.01833529
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.034079615,0.035303493,0.032837674
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.027611532,0.028582786,0.026607177
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.012218463,0.012708771,0.011728108
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.011437651,0.01184766,0.011060234
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.023979709,0.025016501,0.022903871
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.016037604,0.016513132,0.015526279
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.013655684,0.014401229,0.012986997
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.018329306,0.019204073,0.017464258
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.013843115,0.014370584,0.013344597
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.025644159,0.026589407,0.024591716
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.024453962,0.025661918,0.023300157
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.014267156,0.014874095,0.013612049
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.012893121,0.013409233,0.012347747
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.014923111,0.015453796,0.014414446
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.015182824,0.015740081,0.014667898
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.015646204,0.016156404,0.015139146
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.012676524,0.01321575,0.012188145
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.019247301,0.019895054,0.018594698
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.014687407,0.015237345,0.014178858
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014346532,0.015083276,0.013598023
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.009198165,0.009571972,0.008822043
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014942597,0.015507614,0.014410752
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.014631277,0.015114638,0.014132933
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.017697904,0.018427675,0.01700606
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.012145238,0.012647324,0.011650628
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.012695849,0.013109306,0.012281575
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.01579173,0.016439276,0.015191158
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.012684668,0.013061127,0.01228716
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.012131478,0.012564852,0.011721213
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.041201434,0.04307317,0.039370771
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.021725702,0.022455079,0.021048688
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.012608995,0.013171918,0.012083091
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.017756067,0.018462686,0.017004968
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.016266338,0.016883296,0.015697675
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.03404999,0.035330442,0.032878745
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.01267952,0.013345038,0.012015769
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.015727475,0.01633313,0.015208759
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.015155196,0.015737409,0.014590855
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.033886054,0.035204909,0.032702665
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.014442345,0.01493775,0.013989571
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.017683174,0.018405305,0.0169979
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.016301394,0.016803312,0.015777354
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.017299469,0.018149499,0.016458327
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.029007667,0.030044232,0.027909935
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.014565976,0.015357409,0.013834366
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.015257893,0.015759249,0.014766971
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.010806018,0.011244317,0.01033638
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.027860067,0.028820926,0.026857902
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.019587361,0.020304139,0.018912586
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.012772561,0.01335926,0.012248918
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.01585184,0.016456796,0.015244564
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.01574557,0.016356017,0.015145641
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.01419907,0.014710352,0.013656941
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.013976289,0.014545572,0.013467847
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.024350908,0.025535139,0.023181844
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.013212103,0.013768016,0.012723938
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.012889536,0.013534859,0.012216416
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.015748375,0.016295575,0.015227553
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.014450281,0.015027036,0.013965931
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.015514408,0.016086244,0.014992626
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.014882216,0.015569871,0.014225412
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.008222216,0.008852387,0.007648829
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.01937386,0.020014471,0.018685433
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.015994901,0.016555541,0.015440669
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.012188151,0.012628549,0.011787143
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.014715314,0.015199151,0.014260125
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.016127138,0.016915892,0.015398616
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.013921868,0.014478811,0.01341463
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.01683288,0.017652073,0.015997046
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.015850413,0.016464723,0.015258028
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.016483043,0.016977367,0.015974914
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.020100206,0.020812518,0.019395254
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.016098179,0.01668732,0.0155459
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.023763539,0.024772706,0.022816836
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.024346355,0.02532103,0.023340445
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.028947661,0.029993344,0.027822714
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.017206671,0.018028215,0.016380765
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.012558542,0.013075058,0.012084661
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015065329,0.015685574,0.014495204
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.014389759,0.015150086,0.013673182
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.024353895,0.025422441,0.02335255
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.011572861,0.01200443,0.011183027
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.014186371,0.014814013,0.013504547
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.016245186,0.016818948,0.015677497
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.013970474,0.014590862,0.013371422
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.016766414,0.017552956,0.015997602
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.024570685,0.025715052,0.023402896
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.009384586,0.009774678,0.009012279
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.022896333,0.023651956,0.022120896
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.014679614,0.015129655,0.014199244
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.014121892,0.014665814,0.013575984
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.014868358,0.015420278,0.014361708
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.014642998,0.015296898,0.013980494
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015131137,0.015634903,0.014607137
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.015205369,0.015778882,0.014635562
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.035111036,0.036451115,0.033811233
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.014056869,0.014803145,0.013361168
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.019478009,0.02010696,0.018784634
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.01725212,0.018114844,0.016439234
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.009493938,0.009831966,0.009127302
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015928955,0.016693439,0.015235348
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.015741901,0.01628517,0.01517839
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.01677529,0.017614358,0.015995412
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014910148,0.015510584,0.014380486
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.023184465,0.024159245,0.022290899
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.023077089,0.02408185,0.022131417
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.009342395,0.009676059,0.00897648
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.015215931,0.015718893,0.014709635
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014784755,0.015258328,0.014258389
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.015957857,0.016592184,0.015340748
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.015418571,0.015963106,0.014894342
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.016454937,0.017101023,0.015895354
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.013140914,0.013565202,0.012695499
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.021980407,0.022663694,0.021264697
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.017695305,0.018426056,0.016954849
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.013807934,0.014443606,0.013280362
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.012295579,0.012725354,0.011878267
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.010885601,0.011350047,0.01042842
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.013925537,0.014566301,0.013255961
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.015666653,0.01624821,0.015135947
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.025220165,0.026495276,0.024079807
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.028543557,0.029519189,0.02759926
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.00941325,0.009775808,0.009065984
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.014939969,0.015443023,0.014423854
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.023583455,0.024550508,0.022699749
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.023536469,0.024652116,0.022539988
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.008124313,0.008632556,0.007634135
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.016351531,0.017134212,0.015628384
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.017695044,0.018635026,0.016881353
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015273725,0.01604827,0.014486884
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.01545765,0.015995427,0.014908909
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014535202,0.015229481,0.013887405
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.026501943,0.027738495,0.025320732
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.041528049,0.043466182,0.039607856
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.012992674,0.013540759,0.012476719
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.012905009,0.013425276,0.01237563
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.029602021,0.030716306,0.028458481
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014624094,0.015170992,0.014080114
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.017867118,0.018824198,0.017031173
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.017099872,0.017923416,0.016259478
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.014700224,0.015319368,0.014095432
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.016136442,0.016797374,0.01555349
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.017043061,0.017681088,0.016432905
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.015051684,0.0155456,0.014588348
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.022547736,0.023327799,0.021780025
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.017168294,0.017710396,0.016631646
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.028839813,0.029784929,0.02786079
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.018035422,0.018869818,0.017149106
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.014796013,0.015448205,0.014189554
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.009607641,0.009996874,0.00923043
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.013039903,0.013590411,0.012525543
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.015576445,0.016089849,0.015072429
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.017097075,0.017695513,0.01648482
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.014126425,0.014704654,0.013595639
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.01638959,0.017009796,0.015788161
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.007949947,0.008470433,0.007482664
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.041799672,0.0437932,0.039923909
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.012755722,0.013203603,0.012311682
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.009993566,0.010445127,0.009585839
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.016997079,0.017658736,0.016416562
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.020854634,0.021656681,0.020123875
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.015303378,0.015795134,0.014782422
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.024503745,0.025456287,0.02343073
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.011099479,0.011591138,0.010613132
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.015187575,0.015910283,0.01448515
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.023830069,0.02490094,0.02289598
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.01515535,0.015949509,0.014359637
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.014815479,0.015323966,0.014323584
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.009728733,0.010072665,0.009356486
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.016611003,0.017280114,0.015987716
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.017396628,0.018203136,0.016602367
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.018263843,0.01919288,0.017431591
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.013385578,0.013819013,0.012950224
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.030261273,0.031355056,0.029235392
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.016609116,0.017183717,0.01601949
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.023327074,0.024241266,0.022398424
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.015096493,0.015684549,0.014547921
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.011930933,0.012510312,0.011396156
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.017479358,0.018107328,0.016836624
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.01536616,0.016066491,0.014760516
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.023368318,0.024227023,0.022465685
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.014777761,0.015321125,0.014234531
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.016925682,0.017571097,0.016333965
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.037179385,0.038575966,0.035780531
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.015668059,0.016207689,0.015175514
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.024502744,0.025486673,0.023455327
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.015807991,0.016608473,0.015091994
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.010199388,0.010569152,0.00980297
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.028843446,0.029785818,0.027880893
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.017126488,0.017930132,0.01630533
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.016913135,0.01742436,0.01641306
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.017483363,0.018200139,0.016864633
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.019975781,0.020627657,0.019273521
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.015110254,0.015682795,0.014570833
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.015351596,0.01594963,0.014779254
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.017646959,0.018482974,0.016868739
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.016117226,0.01668235,0.015546792
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.020913222,0.021639513,0.020234913
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.007892393,0.008373011,0.007422732
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.011194519,0.01167945,0.010700106
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.014463306,0.015125895,0.013877548
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.013515088,0.01394634,0.013087171
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.026087252,0.02732716,0.024832995
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.023771825,0.024879077,0.022729986
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.015796656,0.016349199,0.01526396
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.013190011,0.013663626,0.012742382
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.017236175,0.018027262,0.016428313
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.016814293,0.017421774,0.016218553
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.012312714,0.012880186,0.011729172
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.022087702,0.023155283,0.021113845
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.015639964,0.016209718,0.015074331
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.021485385,0.022237707,0.020781821
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.011671042,0.012179025,0.011172161
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.015518736,0.016021554,0.015006749
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.01358136,0.014044581,0.013107253
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.018496534,0.019314753,0.017637337
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.015559288,0.01632538,0.01483217
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.008118354,0.008613037,0.00764624
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.017736175,0.018460216,0.017116667
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.016669399,0.0172063,0.016103428
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.016401576,0.017005032,0.015832485
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.017756084,0.018593328,0.016938888
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.017186452,0.017800339,0.016587959
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.018622374,0.01919596,0.018058765
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.014973815,0.01560816,0.014382823
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.025024533,0.026045584,0.023982284
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.038258082,0.039772728,0.036857325
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.016719998,0.017362525,0.016088726
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.011313356,0.011824526,0.010811321
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.030733769,0.031821199,0.02966067
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.01824353,0.018980346,0.017566339
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.020509348,0.021197132,0.019784688
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.017095664,0.017779834,0.016488106
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.010854842,0.011239094,0.010445467
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.014169387,0.014734764,0.013649473
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.015731743,0.016433334,0.015029103
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.019383028,0.020382542,0.018422125
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.02541588,0.026393919,0.02439219
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.012695967,0.01332857,0.01207487
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.027801328,0.029019317,0.026534549
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.016054483,0.016778694,0.015319691
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.014100853,0.014568271,0.013673524
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.023898954,0.024668341,0.023034518
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.016401294,0.017280433,0.01555552
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.017643174,0.018299525,0.01702766
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.015543855,0.016226959,0.014927233
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.015234274,0.015807548,0.014666855
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.01503249,0.01554575,0.014535753
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.029462956,0.030476307,0.02844581
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.01587319,0.016470897,0.015285299
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.021406679,0.022162464,0.020694195
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.011807402,0.01226764,0.011334818
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.016827848,0.017396069,0.016268187
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.015558732,0.016143629,0.015015929
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.018065868,0.018631973,0.017502504
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.017863687,0.018469717,0.017276114
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014953974,0.015516018,0.014404935
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.021731209,0.022438061,0.021028708
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.015863199,0.016488791,0.015289247
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.028056139,0.028983775,0.027071036
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.008387321,0.009019847,0.007798162
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.012790902,0.013306434,0.012302985
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.02109168,0.021944741,0.020348379
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.015894304,0.016517769,0.015342156
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.011370423,0.011732374,0.010996524
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014893408,0.015503441,0.01429242
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.013808859,0.014233439,0.0133609
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.014444767,0.015179039,0.01375829
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.017451779,0.018075146,0.016847353
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.018553885,0.019142621,0.017961242
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.010536153,0.010903603,0.010152119
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.017664844,0.018200084,0.017117703
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.020423162,0.021121234,0.01978521
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.014394543,0.014936452,0.013844543
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.013234619,0.013702525,0.01276257
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.020545792,0.021254861,0.019807085
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.01427769,0.014771199,0.013818026
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.022272294,0.023057333,0.021492477
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.025969321,0.02699233,0.024975041
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.015930034,0.016557716,0.015354665
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.015259596,0.015834899,0.014729206
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014374479,0.014898973,0.013865656
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.012531436,0.01301526,0.012008478
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.017977726,0.01865139,0.01734922
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.018717485,0.019561262,0.017874164
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.013974986,0.014441389,0.013494127
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.024259649,0.025053699,0.023479166
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.038856681,0.040351417,0.037520679
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.020982434,0.021676564,0.020261267
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.01234161,0.012825668,0.011861882
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.027931664,0.029163248,0.026699817
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.019744695,0.020737814,0.018768347
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.015936579,0.016577623,0.015291223
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.009451326,0.010096016,0.008812714
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.015018301,0.015573679,0.014511377
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.022325464,0.023377834,0.02134028
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.017402435,0.018269805,0.016546335
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.021978537,0.02270865,0.021248442
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.015776198,0.016261933,0.015302428
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.018757764,0.019439638,0.018101731
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.013116844,0.013795578,0.01247575
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.017961704,0.018566585,0.017352031
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.043320037,0.045435151,0.041359319
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.01690527,0.017503265,0.016311657
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.01413486,0.014668587,0.013601673
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015169002,0.015662052,0.014611996
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.015632324,0.016230797,0.015054933
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.021639148,0.02259188,0.02078534
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.017202743,0.017824954,0.016587022
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.04243659,0.04420431,0.04060582
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.010587935,0.01098307,0.010194845
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.018490373,0.019187934,0.017859754
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.014467262,0.014964467,0.013978979
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.012122918,0.012550695,0.011661521
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.016988072,0.017468757,0.016431487
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.01637567,0.016925577,0.015821991
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.014646722,0.015147709,0.014147515
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.012101907,0.012654507,0.011544229
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.019633308,0.020508366,0.018693355
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.019400003,0.020104083,0.018751396
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.016587862,0.017146743,0.015976458
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.012818758,0.013474531,0.012138664
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.025967789,0.027030971,0.025004712
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.02942822,0.030476171,0.028424128
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.017957056,0.018589469,0.017339749
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.020119158,0.021117682,0.019131495
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.016240375,0.016858353,0.015627417
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.045670819,0.047931457,0.04346572
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.015105296,0.015635107,0.014568055
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.018779443,0.019356432,0.018226508
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014805975,0.015385312,0.014289365
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.013055288,0.013584857,0.012550115
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.014910439,0.01557221,0.014326122
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.028593636,0.029597643,0.027661776
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.018823292,0.019701566,0.017967297
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.018733627,0.019748784,0.017802325
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.019554852,0.020297055,0.018865471
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.029131308,0.030317287,0.027986525
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.012966811,0.013670376,0.012257139
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.024520426,0.02529801,0.023691308
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.016624939,0.017214538,0.016031674
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.02526191,0.026283465,0.024270075
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.031327465,0.032452982,0.030264111
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.022425164,0.023326101,0.021535121
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.007960951,0.008670437,0.007415374
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.018382716,0.019024824,0.017729751
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.030056754,0.031052024,0.02905617
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.014383642,0.014925095,0.01385557
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.011984103,0.01241983,0.011551054
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.014526247,0.015052874,0.013982324
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.019545416,0.020487883,0.018651491
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.019204054,0.020125873,0.018285753
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.015694711,0.016259899,0.015157077
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.016439718,0.017016541,0.015795004
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.023749238,0.024509969,0.022967188
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.01770354,0.018331344,0.017096737
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.013584693,0.014170937,0.01305123
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.012308549,0.012890252,0.011734649
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.024447266,0.025227989,0.023637106
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.017075776,0.017635864,0.016501209
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.01806339,0.01860925,0.017484989
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014987655,0.015783315,0.014162656
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.035195946,0.03649009,0.033989828
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014071563,0.014590872,0.013523192
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.014419231,0.015080859,0.013762336
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.014483997,0.014955665,0.014012815
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.014427202,0.014987756,0.013948821
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.009373423,0.009707201,0.008997007
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.042253049,0.044112522,0.040440375
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.018504631,0.01916874,0.017832477
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.012239083,0.012817443,0.011667755
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.016133004,0.016743781,0.015465316
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.019923467,0.020587208,0.019308492
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.011720406,0.012276156,0.011281758
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.014373441,0.014939919,0.013821058
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.010780999,0.011232619,0.010337436
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.014253446,0.014718672,0.013788524
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.014564526,0.015093221,0.014014955
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.015817267,0.016588519,0.015101961
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.01086698,0.011312882,0.01041454
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.016370904,0.016951949,0.015741407
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.01616659,0.016827962,0.015518633
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.015445544,0.016061669,0.01488829
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.030452557,0.031509507,0.02933985
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.018311338,0.019027728,0.017636557
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.011123789,0.011501483,0.01076236
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.014774734,0.015253362,0.0142734
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.028365661,0.029396716,0.027473188
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.014379348,0.015057213,0.013748315
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.012960966,0.013472833,0.012464265
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.015845051,0.016609632,0.015089971
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.018908843,0.019829441,0.017972364
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.019562215,0.020191099,0.01890832
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.014060833,0.014638775,0.013553696
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.024348316,0.025379389,0.023375441
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.015391251,0.015965572,0.014837777
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.019711058,0.020733936,0.01875423
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.041633749,0.043484649,0.039749625
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.01427025,0.014853302,0.013751678
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.014743433,0.015279397,0.014196531
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.016077516,0.016701807,0.015465218
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.012651942,0.013195984,0.012128593
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.028816881,0.030064713,0.027644258
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.024450328,0.025294355,0.023592675
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.03089961,0.032033226,0.029733653
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.0248331,0.025907343,0.02380648
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.00813971,0.008871009,0.007565945
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.020454067,0.021451948,0.019529016
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.022313989,0.023163709,0.021352968
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.014776025,0.015416629,0.014215654
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.008160896,0.008814968,0.007618104
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.014594975,0.015053654,0.0141009
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.013785109,0.014348796,0.013303497
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014933618,0.015469987,0.014415324
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.019530693,0.020583636,0.018564967
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.011907227,0.012324615,0.011511228
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.015430786,0.016090651,0.014836521
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.013737107,0.014372402,0.013120848
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.016242739,0.016830619,0.015664109
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.024231611,0.025165593,0.023304013
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.028431147,0.029770495,0.027220665
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.031053281,0.032174653,0.029957344
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.025353529,0.026401442,0.024364454
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.02084122,0.021879212,0.01984569
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.022568758,0.023456356,0.021641657
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.016340755,0.016862548,0.015838843
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.016216088,0.016960105,0.01551541
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.035827889,0.037176953,0.034512129
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.018266359,0.018946588,0.017606024
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.014693013,0.015280547,0.014136818
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.041951384,0.043821262,0.040056561
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.016262972,0.016780185,0.015739533
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014704614,0.015294732,0.014163215
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.016410579,0.017080952,0.015745512
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.017616621,0.018322169,0.016928537
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.025732574,0.027001281,0.024553689
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.042629782,0.044606336,0.040831403
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.017083676,0.01769527,0.016500196
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.019502607,0.0204906,0.01850888
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.016651353,0.017224744,0.016067832
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.017148221,0.017742311,0.016609375
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.017045613,0.017673139,0.016423584
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.015168256,0.016019168,0.014363665
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.014356059,0.014941968,0.013761006
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.019634926,0.020428794,0.018866758
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.016398513,0.017176376,0.015637225
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.010846341,0.011319012,0.010383954
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.014724517,0.015366721,0.01416199
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.015027127,0.015498222,0.014592538
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.016375406,0.016973778,0.015770133
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015695094,0.016241541,0.015167332
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.015462428,0.016088396,0.014871158
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.01437041,0.015034474,0.013737755
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.024367994,0.025458077,0.023282634
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.017553174,0.018152932,0.016957468
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.018157223,0.01892017,0.017421156
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,1992,0.013320814,0.013902196,0.012795863
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.014603718,0.015114631,0.014073104
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.014188569,0.01472528,0.013673068
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.012569011,0.013095026,0.012076534
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,1993,0.008977135,0.009598586,0.008375017
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.016981791,0.017478251,0.016482621
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.014590514,0.015407074,0.013860294
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014349033,0.014993843,0.013744377
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.014288991,0.014879191,0.013791395
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.014850765,0.015412195,0.014284069
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.014576719,0.015237746,0.013981409
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.016324274,0.01691746,0.015782921
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.014506507,0.015165688,0.013872599
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.043048738,0.045010137,0.041154714
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.016600661,0.017130597,0.016096167
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.030804929,0.031775451,0.029721179
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.012261928,0.012846224,0.011643783
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.014912871,0.015555622,0.014283385
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014721248,0.015297561,0.014173383
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.012125049,0.012598461,0.011663924
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.018823398,0.01972449,0.017858586
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.015999209,0.016643653,0.015398354
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.016374352,0.016958728,0.015736919
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.016559609,0.017240111,0.015899539
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.01799123,0.018683529,0.017328964
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.019030098,0.019711717,0.01838872
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.026260115,0.027410382,0.025095161
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.018639892,0.019321479,0.017941497
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.01964861,0.020728441,0.018664637
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.017475749,0.018303637,0.016717184
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.018492118,0.019235515,0.017747538
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.015828711,0.016596689,0.015124288
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.018262685,0.019046223,0.017513602
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.011449015,0.012181871,0.010927874
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.016447567,0.017265495,0.015665642
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.026958145,0.02790519,0.025987899
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.014710069,0.015313601,0.014138082
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.011945891,0.012405261,0.011540105
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.009721372,0.010093669,0.009334724
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.01395913,0.014540866,0.013362753
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.018095205,0.018841611,0.017323635
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.01678585,0.017420567,0.016184876
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.013285983,0.013829362,0.012775076
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.01837286,0.018993715,0.017724435
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.016523942,0.017267417,0.015768941
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.024214465,0.025152126,0.023204849
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.013022154,0.013569433,0.012496382
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.012982864,0.013702578,0.01232139
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.017187158,0.017894195,0.016441694
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.01736516,0.018049017,0.016673512
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.011835952,0.012355665,0.011336356
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.016776498,0.017330119,0.016239319
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.016374488,0.017017964,0.015835857
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.015794797,0.016440874,0.015136334
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.016526262,0.017160084,0.015915162
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.026188831,0.027237896,0.025135978
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.017043174,0.01768922,0.016460316
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.01763482,0.01828801,0.016997205
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.015436496,0.016016003,0.014800536
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.013487487,0.013997148,0.013034384
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.016250019,0.016882227,0.01567128
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.01755592,0.018095314,0.017016052
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.019073041,0.019799975,0.018446511
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.011137278,0.011553174,0.010759293
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.01827627,0.019237319,0.017444533
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.028140348,0.029311395,0.026913765
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.038742384,0.040154537,0.037157495
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.014401623,0.015188207,0.013660661
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.01480137,0.015268288,0.014372738
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.021184871,0.021919516,0.020524331
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.025858244,0.027000315,0.024803064
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.01946946,0.020453472,0.018518078
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.014229479,0.014995411,0.013515526
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.016412202,0.01697661,0.015831586
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.04258492,0.044435564,0.040806157
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.026054402,0.02711631,0.025005438
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.039839351,0.041638327,0.038046523
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.016313393,0.016848571,0.015768196
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.016045523,0.016603384,0.015500751
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.014664331,0.015166592,0.014198937
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.024415325,0.025179643,0.023586656
+1,Deaths,558,Ohio,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.014350975,0.014830051,0.01386746
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.031019938,0.032012746,0.030019143
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.008591112,0.009298072,0.008050023
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.017180443,0.018023189,0.016342819
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.014182004,0.014664694,0.013671806
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.008015407,0.00875622,0.007458908
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.014322077,0.014958305,0.013694832
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.025218429,0.026263677,0.024180861
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.018717751,0.019610493,0.017863972
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.025100217,0.026359079,0.023927609
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.014415092,0.014862898,0.013929578
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.02238897,0.023169947,0.021517225
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.018816957,0.019717142,0.017891038
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.038635981,0.040072396,0.037222451
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.016826426,0.017644126,0.016082126
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.015536891,0.016083736,0.015021955
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.018910077,0.019509023,0.018355319
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.017589777,0.018142878,0.016970714
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.016636904,0.017375159,0.015954145
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.008085673,0.008606625,0.007553247
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.030796032,0.031914744,0.029802802
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.014724506,0.015407648,0.014080791
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.01459722,0.015160689,0.013992071
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.012888242,0.013657304,0.012203546
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.019769343,0.020730426,0.01886498
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.037847708,0.039396796,0.03624337
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.018425674,0.019179286,0.017726941
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.021411497,0.022196152,0.02067864
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.028161246,0.029432504,0.026961509
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.015804766,0.016596497,0.015082365
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.023651197,0.02463859,0.022671794
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.022320092,0.023247885,0.021291142
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.012043252,0.012447296,0.011611157
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.019078617,0.019962641,0.018133305
+1,Deaths,557,North Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.014535177,0.015312891,0.013828421
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.024453302,0.025684292,0.023218085
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.020658934,0.021766926,0.01959692
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.015030863,0.015587715,0.014490691
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.038045358,0.039465285,0.036416798
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.021188423,0.022079919,0.020395041
+1,Deaths,561,Pennsylvania,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.013012821,0.013418915,0.01258197
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.045274713,0.047402532,0.043182928
+1,Deaths,529,Connecticut,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.011333834,0.011792592,0.010855202
+1,Deaths,552,New Hampshire,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.017376813,0.018216429,0.016585389
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.012379793,0.01297989,0.011769636
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.0240285,0.025113018,0.022965864
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.018784797,0.019509108,0.018069185
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.017663551,0.018293999,0.017062046
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.017062829,0.017725602,0.016441552
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.012270256,0.012768749,0.011772239
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.016135669,0.016800894,0.015543932
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.018438905,0.019165997,0.017737839
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.015059914,0.015801037,0.014297746
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.01436592,0.014847565,0.013884471
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.014287089,0.014918094,0.013704964
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.024538225,0.025702095,0.023427588
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.022283103,0.023223759,0.02140728
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.015997355,0.016515434,0.015489764
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.009352422,0.009698344,0.008958848
+1,Deaths,570,Washington,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.01984022,0.020517735,0.01915451
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014728519,0.015231705,0.014236368
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.009144945,0.009491749,0.008792874
+1,Deaths,564,South Dakota,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.016918332,0.017733038,0.016129154
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.016788401,0.017372875,0.016217093
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.025470958,0.026539451,0.024447829
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.012771425,0.013475621,0.0121188
+1,Deaths,568,Vermont,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.019875755,0.020826415,0.018885936
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.020051046,0.020776499,0.019398427
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.039682635,0.041504923,0.037892634
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.012235802,0.012671775,0.011790924
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014519873,0.015040238,0.013959825
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.017657564,0.018524927,0.016828655
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.021167066,0.021877757,0.020500941
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.015037284,0.015730803,0.014430069
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014205946,0.014697517,0.01374922
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2017,0.037777152,0.039758638,0.035776679
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.014523684,0.015234204,0.013810081
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2017,0.016745604,0.017754823,0.015778247
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.01683436,0.017425095,0.016229705
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2017,0.01786881,0.019092567,0.016630575
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.015768125,0.01637356,0.015215032
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.016447587,0.017150646,0.015782851
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2017,0.017315147,0.018450889,0.016279893
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.015279496,0.015864935,0.014700354
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.034443376,0.03570373,0.03321886
+1,Deaths,549,Montana,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.023877066,0.024948316,0.022803597
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.018466894,0.019194756,0.017748275
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.016119905,0.016957673,0.015316607
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.014332592,0.014960851,0.013738151
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.018742206,0.019647031,0.017780997
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.008446743,0.009054915,0.007917617
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.040044836,0.041868044,0.03824082
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.00803078,0.008534834,0.007539863
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.017355286,0.018034825,0.016757875
+1,Deaths,551,Nevada,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.030449121,0.031614096,0.029376685
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.016107593,0.016710168,0.015522034
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.023532369,0.024522037,0.022507832
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.015854772,0.016340056,0.015404071
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.016594989,0.017274506,0.016004711
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.01504827,0.015614445,0.014429507
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.015818546,0.016334366,0.015311428
+1,Deaths,572,Wisconsin,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.015024235,0.015490381,0.014492388
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.016399317,0.01709187,0.015735017
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.017886997,0.018619066,0.01716273
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.017563948,0.018182772,0.016962457
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.014077675,0.014678238,0.013436606
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.014926149,0.015720795,0.014142283
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.042336714,0.044279095,0.040374228
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.016413976,0.01693444,0.015901074
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,1999,0.014141446,0.014920713,0.013430212
+1,Deaths,571,West Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2017,0.015152068,0.016337156,0.014080434
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.020527228,0.021293691,0.019721917
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.0159924,0.016536073,0.015462269
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.021248279,0.022118148,0.020493793
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.019814289,0.020783864,0.018790981
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2009,0.019300642,0.020184379,0.018359909
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.016250011,0.01694045,0.0155996
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.013723309,0.014266449,0.013197482
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.01477758,0.01530207,0.014243037
+1,Deaths,567,Utah,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.038178231,0.039744687,0.036546967
+1,Deaths,537,Indiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.017605554,0.01823449,0.017002248
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.011718133,0.012104064,0.011310359
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.0141161,0.014629653,0.013616363
+1,Deaths,545,Michigan,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.016135178,0.016669971,0.015610274
+1,Deaths,562,Rhode Island,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.013116402,0.013811551,0.012474112
+1,Deaths,554,New Mexico,3,Both,22,All Ages,718,Self-harm,2,Percent,2008,0.025902455,0.026888459,0.024800794
+1,Deaths,569,Virginia,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.018385989,0.019106423,0.017666775
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.01300896,0.013557804,0.012504613
+1,Deaths,548,Missouri,3,Both,22,All Ages,718,Self-harm,2,Percent,1996,0.014636325,0.015165791,0.014135553
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014619566,0.015132497,0.014098473
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2017,0.018311842,0.019627682,0.01714362
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,1995,0.009536531,0.009890014,0.009171025
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.012303437,0.012786346,0.011806246
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.031576581,0.032839908,0.030275848
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.027300521,0.028726162,0.025980096
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.014861295,0.015349777,0.014393581
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.01514078,0.01576003,0.014538175
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.014995372,0.015594107,0.014483155
+1,Deaths,540,Kentucky,3,Both,22,All Ages,718,Self-harm,2,Percent,1998,0.01445078,0.014994906,0.013932343
+1,Deaths,560,Oregon,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.022172585,0.023008615,0.021316001
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.041763059,0.043504088,0.040034006
+1,Deaths,546,Minnesota,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.017867845,0.018520949,0.01724922
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.016935351,0.017421988,0.016361781
+1,Deaths,534,Hawaii,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.019150331,0.019998447,0.018229782
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.010829381,0.011258439,0.010411949
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.016455224,0.017013747,0.015897928
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.016448898,0.017198737,0.015764626
+1,Deaths,563,South Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.016049455,0.016724454,0.015383947
+1,Deaths,566,Texas,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.018872435,0.019446303,0.01831786
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.015940304,0.016734006,0.015146984
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.014598034,0.015465453,0.013790854
+1,Deaths,553,New Jersey,3,Both,22,All Ages,718,Self-harm,2,Percent,2002,0.009261686,0.009656757,0.008882326
+1,Deaths,530,Delaware,3,Both,22,All Ages,718,Self-harm,2,Percent,2011,0.015870625,0.016667748,0.015116663
+1,Deaths,524,Alaska,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.042606128,0.044445191,0.040688482
+1,Deaths,527,California,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.017019904,0.017542493,0.016453922
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.018510806,0.019314828,0.017779049
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.018328988,0.019100026,0.017586186
+1,Deaths,547,Mississippi,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.014778343,0.015419662,0.014204255
+1,Deaths,532,Florida,3,Both,22,All Ages,718,Self-harm,2,Percent,1997,0.014530729,0.014975787,0.014037973
+1,Deaths,543,Maryland,3,Both,22,All Ages,718,Self-harm,2,Percent,2000,0.018081463,0.018812623,0.017374471
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2017,0.01579473,0.016699916,0.014928435
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.016708503,0.017297272,0.016180769
+1,Deaths,573,Wyoming,3,Both,22,All Ages,718,Self-harm,2,Percent,1994,0.026649358,0.027913113,0.025521515
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,2003,0.011460555,0.011878556,0.011060886
+1,Deaths,533,Georgia,3,Both,22,All Ages,718,Self-harm,2,Percent,2010,0.017253239,0.017851596,0.016675055
+1,Deaths,559,Oklahoma,3,Both,22,All Ages,718,Self-harm,2,Percent,2016,0.019721934,0.020599182,0.018863139
+1,Deaths,556,North Carolina,3,Both,22,All Ages,718,Self-harm,2,Percent,2004,0.015049502,0.015559301,0.01460292
+1,Deaths,523,Alabama,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.014649464,0.015221058,0.014125138
+1,Deaths,536,Illinois,3,Both,22,All Ages,718,Self-harm,2,Percent,2005,0.01174048,0.012189961,0.011342577
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2012,0.016964297,0.017821173,0.016212747
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2007,0.015977564,0.016686639,0.015241409
+1,Deaths,526,Arkansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2017,0.017903408,0.018934938,0.016835169
+1,Deaths,535,Idaho,3,Both,22,All Ages,718,Self-harm,2,Percent,2006,0.023763507,0.024653164,0.022847693
+1,Deaths,565,Tennessee,3,Both,22,All Ages,718,Self-harm,2,Percent,2014,0.017464121,0.01811674,0.01677362
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.009272008,0.00960675,0.008888269
+1,Deaths,542,Maine,3,Both,22,All Ages,718,Self-harm,2,Percent,2013,0.016733364,0.017618793,0.015977556
+1,Deaths,550,Nebraska,3,Both,22,All Ages,718,Self-harm,2,Percent,2015,0.015883756,0.016615054,0.015101405
+1,Deaths,555,New York,3,Both,22,All Ages,718,Self-harm,2,Percent,2017,0.011247695,0.012181491,0.010516522
+1,Deaths,539,Kansas,3,Both,22,All Ages,718,Self-harm,2,Percent,2001,0.014666954,0.015291518,0.014102356
+1,Deaths,538,Iowa,3,Both,22,All Ages,718,Self-harm,2,Percent,2018,0.015082675,0.016505573,0.013779676
+1,Deaths,525,Arizona,3,Both,22,All Ages,718,Self-harm,2,Percent,2018,0.022201319,0.023834706,0.02050966
+1,Deaths,528,Colorado,3,Both,22,All Ages,718,Self-harm,2,Percent,2018,0.028532884,0.030624381,0.026432246
+1,Deaths,541,Louisiana,3,Both,22,All Ages,718,Self-harm,2,Percent,2018,0.014633604,0.015830359,0.013520764
+1,Deaths,544,Massachusetts,3,Both,22,All Ages,718,Self-harm,2,Percent,2018,0.011778213,0.012915591,0.010735611
+1,Deaths,531,District of Columbia,3,Both,22,All Ages,718,Self-harm,2,Percent,2018,0.009743791,0.010712343,0.008904272

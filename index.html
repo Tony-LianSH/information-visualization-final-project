@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>US Suicide</title>
+        <script src="https://d3js.org/d3.v6.min.js"></script>
+        <script src="//d3js.org/topojson.v1.min.js"></script>
+        <script src="https://unpkg.com/d3-simple-slider"></script>
+        <script src="https://d3js.org/d3-geo-projection.v3.min.js"></script>
+        
+        
+        <link rel="stylesheet" href='styles.css'> 
+    </head>
+    <body>
+        
+        <style type="text/css">
+            .tooltip {
+                position: absolute;
+                text-align: center;
+                width: 200px;
+                height: 35px;
+                padding: 2px;
+                font: 12px sans-serif;
+                font-weight: 540;
+                background: rgb(190, 211, 255);
+                border: 0px;
+                border-radius: 8px;
+                pointer-events: none;
+                opacity: 0;
+            }
+        </style>
+        <svg class='map' width="1000" height="1850"></svg>
+        <svg class='pie'width="1000" height="400" ></svg>
+        <div class="slider-time-one" id="slider-time"></div>
+        <!-- Rounded switch -->
+        <label class="switch">
+            <input type="checkbox" onclick = changeMode() id="myCheck">
+            <span class="slider round"></span>
+        </label>
+        <div class="rn">
+            <p>Turn on to see suicide population:</p>
+        </div>
+        <!-- Play Button -->
+        <div class="wrap">
+            <button class="button" id="play-button">Play</button>
+        </div>
+        <svg class='barchart'width="1000" height="1800" ></svg>
+        
+        
+            <p class='barplay' onclick="change()">➡️ Top 20 states with the highest number of suicides per year animation</P>
+       
+        
+        <script src="all_in_one.js"></script>
+    </body>
+</html>
